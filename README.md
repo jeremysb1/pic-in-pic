@@ -12,4 +12,4 @@ As a user, I can resize the image or move it around anywhere on the screen.
 
 I would use this to play on a separate screen; if I used dual monitors for example.
 
-![Fireplace Picture in Picture](image.jpg)
+![Fireplace Picture in Picture](image.png)
