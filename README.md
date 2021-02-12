@@ -8,8 +8,6 @@ I read the picture in a picture API [documentation](https://w3c.github.io/pictur
 
 As an example, I selected a youtube video of a fire burning in the fireplace to play in the background.
 
-As a user, I can resize the image or move it around anywhere on the screen. 
-
-I would use this to play on a separate screen; if I used dual monitors for example.
+As a user, I can resize the video playing in the background or move it on the screen. 
 
 ![Fireplace Picture in Picture](image.png)
